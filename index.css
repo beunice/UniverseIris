@@ -1,0 +1,133 @@
+body {
+	margin: 0;
+	font-size: 2em;
+	background-attachment: fixed;
+}
+
+h3 {
+    color: white;
+}
+h5 {
+    color: white;
+}
+p {
+		color: white;
+}
+
+a:link {
+	color: #E6E6E6;
+	text-decoration: none;
+	font-size: 20px;
+ }
+a:visited {
+	color: #E6E6E6;
+	text-decoration: none;
+}
+a:hover {
+	color: #E6E6E6;
+	text-decoration: none;
+}
+a:active {
+	color: #B8B8B8;
+	text-decoration: none;
+}
+
+a.current:link {
+	color: #999999;
+	tsext-decoration: none;
+	font-size: 20px;
+}
+a.current:visited {
+	color: #999999;
+	text-decoration: none;
+}
+a.current:hover {
+	color: #999999;
+	text-decoration: none;
+}
+a.current:active {
+	color: #B8B8B8;
+	text-decoration: none;
+}
+
+a.copy {
+	color: #E6E6E6;
+	tsext-decoration: none;
+	font-size: 9px;
+}
+
+a.copy:visited {
+	color: #E6E6E6;
+	text-decoration: none;
+}
+a.copy:hover {
+	color: #E6E6E6;
+	text-decoration: none;
+}
+a.copy:active {
+	color: #B8B8B8;
+	text-decoration: none;
+}
+
+.images {
+}
+
+	#exo {
+		background-image: url("assets/img/background/chandra.jpg");
+		background-size: 100%;
+		background-position: center;
+		background-repeat: no-repeat;
+	}
+
+	#home {
+		 background-image: url("assets/img/background/milky.jpg");
+		 background-size: 100%;
+		 background-position: center;
+	}
+
+	#logo {
+		background-color: #000052;
+	}
+
+	#lun {
+		background-image: url("assets/img/background/Paul%20Hutchinson/Luna.jpg");
+	}
+
+	#met {
+		background-image: url("assets/img/background/Navicore/Leonid_Meteor.jpg");
+		background-size: 100%;
+		background-position: center;
+	}
+
+	#sol {
+		background-image: url("assets/img/background/Michael%20H.F.%20Wilkinson/Sol.jpg");
+	}
+
+.copyright {
+	color: #E6E6E6;
+	font-size: 9px;
+	font-style: italic;
+}
+
+.menu {
+}
+
+	#menu-header{
+		color: #E6E6E6;
+	}
+
+.live {
+}
+.label {
+	color: #E6E6E6
+}
+.para {
+	text-align: center;
+}
+.img {
+	float: left;
+	margin: 5px;
+}
+
+.background{
+}
